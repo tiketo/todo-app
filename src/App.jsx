@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="app">
       <div className="app-header">
-        <h1>할일 앱</h1>
+        <h1>할일 앱 (03-21)</h1>
         {todos.length > 0 && (
           <span className="counter">
             {remaining === 0 ? '모두 완료!' : `${remaining}개 남음`}
