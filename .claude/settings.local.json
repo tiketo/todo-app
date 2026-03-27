@@ -3,7 +3,9 @@
     "allow": [
       "Bash(rm C:/projects/VibeCodePjt/todo-app/src/assets/react.svg)",
       "Bash(rm C:/projects/VibeCodePjt/todo-app/public/vite.svg)",
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Bash(docker:*)",
+      "Bash(curl:*)"
     ]
   }
 }
